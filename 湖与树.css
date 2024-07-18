@@ -9,7 +9,7 @@ video {
     object-fit: cover;
     mix-blend-mode: screen;
     background-color: black;
-    opacity: 0.9;
+    opacity: 1;
 }
 
 source {
